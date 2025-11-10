@@ -1,0 +1,35 @@
+
+body {
+  background-color: #393E46;
+  position: relative;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 40px;
+}
+h1 {
+  font-family: "Orbitron", sans-serif;
+  color: rgb(130, 184, 238);
+  font-size: 70px;
+}
+h2 {
+  font-family: "Inconsolata", monospace;
+  color: white;
+}
+img {
+  width: 80%;
+}
+footer {
+  margin-top: 70px;
+  text-align: center;
+  color: white;
+  position: relative;
+  bottom: 0;
+}
